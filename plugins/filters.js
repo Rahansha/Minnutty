@@ -54,7 +54,7 @@ Asena.addCommand({on: 'text', fromMe: true}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919074309534@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sourav/music.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Bgm','Bot','Bye','Hello','Hi','Pm','alive','assist','ban','bgm','bot','converting','fake','fork','music','number','sed']
+const array = ['Bgm','Bot','Bye','Hello','Hi','Pm','alive','assist','ban','bgm','bot','converting','fake','BGM','rahan','Rahan','ara','poli','Aliya','Powersh','Di','Perfect','Song','Mr7','POWER','LOVE','xxx','da','Bye','vibe','Chunk','myre','minnutty','Kannappi','patti','va','chunk','remove','mp3','Bomb','Vann','Arakkal','bot','Nanban','verippikkal','tagall','night','poda','left''fork','music','number','sed']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
