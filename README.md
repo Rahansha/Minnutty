@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/LPic614d2ed1210cf676708793.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3lC8I7t"><img src="Rahan.jpg" alt="google-font" border="0"></a>
   <a href="https://fontmeme.com/grand-theft-auto-font/"><img src="https://fontmeme.com/permalink/211005/637ae3b7500558dc9ef1521af68a6984.png" alt="grand-theft-auto-font" height="39" width="350" border="0"></a>
 
   # <u> SETUP <u>
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Minnutty-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
      
@@ -20,17 +20,17 @@
 
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Minnutty+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+Rahan+ser🔥)](https://bit.ly/3lC8I7t)
 
 
   <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
 </p>
   
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="Minnutty" src="https://img.shields.io/badge/Minnutty-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-Minnutty/Minnutty?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -44,12 +44,12 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/souravkl11/Minnutty">
+    <img src="https://img.shields.io/github/repo-size/souravkl11/Minnutty?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/souravkl11/Minnutty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Minnutty?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/souravkl11/Minnutty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Minnutty?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
@@ -67,7 +67,7 @@ As per the license, You Can But We Will Not Support. 🙃
   
   # Feature overview
   
-- [x] Change image and contact of verified tick [ Exclusively on Raganork ]
+- [x] Change image and contact of verified tick [ Exclusively on Minnutty ]
 
 - [x] Change all major images and names of your bot
 
@@ -101,7 +101,7 @@ As per the license, You Can But We Will Not Support. 🙃
   
   Step 3: Turn on worker
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Minnutty-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
      <div align="left">
@@ -116,8 +116,8 @@ As per the license, You Can But We Will Not Support. 🙃
 ```
 യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
 ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, Raganork Developer ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
-Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
+തീർച്ചയായും, Minnutty Developer ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
+Minnutty സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
 ```
 
@@ -145,4 +145,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
   <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends⚡️)](https://bit.ly/3lC8I7t)
